@@ -94,6 +94,8 @@ The incumbent, iitiimshaadi.com, is disliked for concrete, repeatable reasons �
 
 Each capability notes the incumbent gap it closes. Format: **User story → key requirements → acceptance criteria (AC).**
 
+> **Developer-ready detail:** this section is the summary. Every feature below is specified in full — name, description, expected behavior in all states, exhaustive edge cases, acceptance criteria, and dependencies — in the [**Feature Specification**](./FEATURE-SPEC.md) (`docs/spec/`). Feature IDs (e.g. `VER-2`, `BAL-01`, `SAFE-07`) are stable references used across the spec.
+
 ### 7.1 Onboarding & Multi-Tier Identity Verification *(closes: spoofable verification, fake/dormant profiles, gender-asymmetric onboarding)*
 
 **Story:** As a new user, I complete a graduated verification so that everyone I see is provably real, eligible, and serious.
