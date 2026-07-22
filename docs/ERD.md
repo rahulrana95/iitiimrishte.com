@@ -5,6 +5,8 @@
 
 This schema is designed to be directly implementable and to structurally support the PRD's differentiators: **multi-signal verification badges**, **non-enumerable profiles**, **response-fairness**, **international i18n/multi-currency**, and **DPDP/GDPR consent + erasure**.
 
+> **Physical schema:** the concrete, runnable **Supabase (Postgres)** DDL — tables, columns, types, enums, foreign keys, indexes, RLS policies, storage buckets, and the sensitive-data vault — lives in [`docs/SCHEMA.md`](./SCHEMA.md). This ERD is the conceptual map; `SCHEMA.md` is what you run.
+
 ---
 
 ## 1. ER Diagram
