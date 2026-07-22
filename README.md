@@ -13,6 +13,7 @@ A **verified premium-professional matchmaking platform** — international, trus
 | [`docs/ERD.md`](./docs/ERD.md) | Entity-Relationship model — Mermaid diagram + per-table column specs. Structurally supports verification badges, non-enumerable profiles, multi-currency/i18n, and DPDP/GDPR consent + erasure. |
 | [`docs/GTM-LAUNCH-PLAN.md`](./docs/GTM-LAUNCH-PLAN.md) | Go-to-market & launch plan — how to make it a success and how to launch, with the female/male two-sided balance as the spine. Beachhead corridor, density gates, 0-to-90-day calendar, brand, growth, business model, metrics. |
 | [`docs/FEATURE-SPEC.md`](./docs/FEATURE-SPEC.md) + [`docs/spec/`](./docs/spec/) | Developer-ready feature catalogue — every feature with name, description, expected behavior in all states, exhaustive edge cases, acceptance criteria, and dependencies. 6 domains, stable feature IDs. |
+| [`docs/JOURNEYS.md`](./docs/JOURNEYS.md) + [`docs/journeys/`](./docs/journeys/) | The simple, visual layer — 7 user-journey stages, each with plain-language steps, ASCII screen mockups, and per-screen edge cases. |
 | [`docs/research/raw/`](./docs/research/raw/) | Raw per-angle research outputs (12 agents), each with its own source list. |
 | [`docs/gtm/raw/`](./docs/gtm/raw/) | Raw per-role outputs from the 9-person entrepreneur team (GTM, liquidity, female-first, male, growth, brand, partnerships, business model, moat/metrics). |
 
