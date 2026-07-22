@@ -11,7 +11,9 @@ A **verified premium-professional matchmaking platform** — international, trus
 | [`docs/research/market-research.md`](./docs/research/market-research.md) | Link-cited teardown of iitiimshaadi.com (product, pricing, reputation, safety, company/scale, gap analysis) + international competitive scan. Every claim links to its original source. |
 | [`docs/PRD.md`](./docs/PRD.md) | Product Requirements — vision, personas, positioning vs incumbent, functional + non-functional requirements, compliance, metrics, risks, phased roadmap, open questions. |
 | [`docs/ERD.md`](./docs/ERD.md) | Entity-Relationship model — Mermaid diagram + per-table column specs. Structurally supports verification badges, non-enumerable profiles, multi-currency/i18n, and DPDP/GDPR consent + erasure. |
+| [`docs/GTM-LAUNCH-PLAN.md`](./docs/GTM-LAUNCH-PLAN.md) | Go-to-market & launch plan — how to make it a success and how to launch, with the female/male two-sided balance as the spine. Beachhead corridor, density gates, 0-to-90-day calendar, brand, growth, business model, metrics. |
 | [`docs/research/raw/`](./docs/research/raw/) | Raw per-angle research outputs (12 agents), each with its own source list. |
+| [`docs/gtm/raw/`](./docs/gtm/raw/) | Raw per-role outputs from the 9-person entrepreneur team (GTM, liquidity, female-first, male, growth, brand, partnerships, business model, moat/metrics). |
 
 ## How this was produced
 
